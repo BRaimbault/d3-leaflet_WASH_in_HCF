@@ -1494,8 +1494,7 @@ var worldData = {
 		"type" : "Feature",
 		"id" : "SDN",
 		"properties" : {
-			"name" : "Sudan",
-			"wat_cov" : 0.91
+			"name" : "Sudan"
 		},
 		"geometry" : {
 			"type" : "Polygon",
@@ -1505,7 +1504,8 @@ var worldData = {
 		"type" : "Feature",
 		"id" : "SSD",
 		"properties" : {
-			"name" : "South Sudan"
+			"name" : "South Sudan",
+			"wat_cov" : 0.91
 		},
 		"geometry" : {
 			"type" : "Polygon",
