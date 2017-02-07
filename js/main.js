@@ -1,7 +1,7 @@
 function init(){
 		
     var base_osm = L.tileLayer(
-    		'http://openmapsurfer.uni-hd.de/tiles/roadsg/x={x}&y={y}&z={z}',{
+    		'http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}',{
 			minZoom: 2,
 			maxZoom: 18,
 			attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}
